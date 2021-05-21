@@ -1,7 +1,7 @@
 # Password vulnerability checker using python
 
 ## Description
-This script uss the APi from have i been pwned website, using it's password list to check if the password given on **password.txt** has been hacked or not.
+This script uses the APi from have I been pwned website by Troy Hunt, using it's passwords list to check if the password given on **password.txt** has been hacked or not.
 
 ### The official site:
 
